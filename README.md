@@ -1,2 +1,0 @@
-# stcaesar.github.io
-myblog
