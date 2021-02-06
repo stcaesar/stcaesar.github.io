@@ -105,4 +105,5 @@ theme: landscape
 deploy:
 type: git
 repository: https://github.com/stcaesar/stcaesar.github.io.git
-branch: master
+branch: main
+
